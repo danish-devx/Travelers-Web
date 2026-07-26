@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button';
 
 function AutoLayoutExample() {
   return (
-    <footer className="bg-dark text-white py-5 mt-5"style={{height:'65vh'}}>
+    <footer className="bg-dark text-white py-5 mt-5"style={{height:'75vh'}}>
       <Container>
         <Row className="gy-4" style={{paddingTop:'65px'}}>
          
